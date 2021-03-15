@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneBance Assignment</string>
+    <string name="title">रेस्टोरेंट</string>
+    <string name="category">कैटगरी</string>
+    <string name="top_dishes">टॉप डिशेस</string>
+    <string name="north_indian">नार्थ इंडियन</string>
+    <string name="south_indian">साउथ इंडियन</string>
+    <string name="chinese">चिनेसे</string>
+    <string name="mexican">मैक्सिकन</string>
+    <string name="italian">इतालियन</string>
+    <string name="noodle">वेग नूडल्स</string>
+    <string name="pizza">पिज़्ज़ा</string>
+    <string name="dhosa">मसाला ढोसा</string>
+</resources>

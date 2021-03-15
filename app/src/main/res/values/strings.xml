@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OneBance Assignment</string>
+    <string name="title">Restaurant</string>
+    <string name="category">Category</string>
+    <string name="top_dishes">Top Dishes</string>
+    <string name="north_indian">North Indian</string>
+    <string name="south_indian">South Indian</string>
+    <string name="chinese">Chinese</string>
+    <string name="mexican">Mexican</string>
+    <string name="italian">Italian</string>
+    <string name="noodle">Veg Noodles</string>
+    <string name="pizza">Pizza</string>
+    <string name="dhosa">Masala Dhosa</string>
+</resources>
